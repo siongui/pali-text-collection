@@ -35,6 +35,7 @@ Pāli Texts Collection
       - `Pali Text Society Publications <https://obo.genaud.net/backmatter/indexes/idx_downloads.htm#pts_pdfs>`_
 
         * `Index of /dhamma-vinaya/pts_pali <https://buddhadust.net/dhamma-vinaya/pts_pali/>`_
+          (`Site Mirror <{filename}/extra/site-mirror/buddhadust.net/dhamma-vinaya/pts_pali/index.html>`__)
 
           + `DN 1-13: Pali Text Society Pali Text <http://buddhadust.net/dhamma-vinaya/pts_pali/dn/dn.01-13.pts_pali.htm>`_
 

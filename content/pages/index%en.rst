@@ -9,6 +9,16 @@ Pāli Texts Collection
 
 - 巴利文獻
 
+  * `pali texts collection - Google Search <https://www.google.com/search?q=pali+texts+collection>`_
+
+    + `Tripitaka Collection | International College for Postgraduate Buddhist Studies <https://www.icabs.ac.jp/en/library/tripitaka_collection>`_
+    + `INFORMATION ON PALI LITERATURE AND PUBLICATIONS OF THE PALI TEXT SOCIETY, 1996-97 <https://www.budsas.org/ebud/ebsut028.htm>`_
+
+  * `digitized Pali text - Google Search <https://www.google.com/search?q=digitized+Pali+text>`_
+
+    + `Give Ear: Diitized Pali Texts (Digitized Pali Texts) <https://obo.genaud.net/dhammatalk/dhammatalk_forum/give_ear/ge_020.pts.digital.pali.htm>`_
+    + `DLLM Resources: Links - CrossAsia Digital <https://digital.crossasia.org/digital-library-of-lao-manuscripts-resources-links/?lang=en>`_
+
   * 緬甸版
 
     + `Pāli Tipiṭaka <https://tipitaka.sutta.org/>`_ (My work)
@@ -42,6 +52,8 @@ Pāli Texts Collection
 
     + `[Free Book] Pali Text Society PALI Sutta Pitaka (Complete) - AudioBuddha <https://audiobuddha.org/pali-text-society-pali-sutta-pitaka/>`_
       (`PDF Mirror <{static}/extra/pdf-mirror/Pali-Text-Society_PALI-Sutta-Pitaka_Complete.pdf>`__)
+
+    + `Canonical texts and commentaries, Pali and English | Discovering Buddha <https://www.discoveringbuddha.org/scholarly-societies/the-pali-text-society/canonical-texts-and-commentaries-pali-and-english-where-available/>`_
 
   * 泰國版
 

@@ -98,7 +98,7 @@ References
 ----------
 
 .. [1] `佛教修道準則(Buddhist Monastic Code) <https://siongui.github.io/vinaya-bmc-zh/>`_
-
+.. [2] `Download a whole website with wget (or other) including all its downloadable content - Ask Ubuntu <https://askubuntu.com/questions/391622/download-a-whole-website-with-wget-or-other-including-all-its-downloadable-con>`_
 
 .. _Pelican: https://blog.getpelican.com/
 .. _Ubuntu 22.04: https://releases.ubuntu.com/22.04/

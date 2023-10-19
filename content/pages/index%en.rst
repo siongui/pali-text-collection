@@ -66,6 +66,7 @@ Pāli Texts Collection
       - `Sharing: Full Pali Tipitaka together with all Atthakatha (Thai) - Dhamma Wheel Buddhist Forum <https://www.dhammawheel.com/viewtopic.php?f=19&t=41917>`_
 
         * `Here's the Pali Tipitaka of the Royal Thai Edition in Roman script. <https://drive.google.com/file/d/1ZXBxCU0fqARpX6L_fFt1kLW19LXSsTyd/view>`_
+          (`ZIP Mirror <{static}/extra/zip-mirror/Thai-Canon.zip>`__)
 
       - `Sharing: Full Pali Tipitaka together with all Atthakatha (Thai) - Tripitaka 91 - Translations - Discuss & Discover <https://discourse.suttacentral.net/t/sharing-full-pali-tipitaka-together-with-all-atthakatha-thai-tripitaka-91/22532>`_
 

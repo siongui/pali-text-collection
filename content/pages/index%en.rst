@@ -35,6 +35,7 @@ Pāli Texts Collection
         * `GRETIL - Göttingen Register of Electronic Texts in Indian Languages <http://gretil.sub.uni-goettingen.de/gretil.html>`_
 
     + `[Free eBook] The Book of the Discipline: Vinaya Pitaka (6 Vols) by I.B. Horner (Pali Text Society) - AudioBuddha <https://audiobuddha.org/pts-the-book-of-the-discipline/>`_
+      (`PDF Mirror <{static}/extra/pdf-mirror/PTS_Vinaya-Pitaka_The-Book-of-the-Discipline6-vols.pdf>`__)
 
       - `The Book of the discipline (Vinaya-piṭaka) by I. B. Horner | Open Library <https://openlibrary.org/works/OL18406879W/The_book_of_the_discipline>`_
       - `The Book of the discipline by I. B. Horner | Open Library <https://openlibrary.org/books/OL7101198M/The_Book_of_the_discipline>`_

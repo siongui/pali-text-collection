@@ -41,6 +41,7 @@ Pāli Texts Collection
       - `The Book of the discipline by I. B. Horner | Open Library <https://openlibrary.org/books/OL7101198M/The_Book_of_the_discipline>`_
 
     + `[Free Book] Pali Text Society PALI Sutta Pitaka (Complete) - AudioBuddha <https://audiobuddha.org/pali-text-society-pali-sutta-pitaka/>`_
+      (`PDF Mirror <{static}/extra/pdf-mirror/Pali-Text-Society_PALI-Sutta-Pitaka_Complete.pdf>`__)
 
   * 泰國版
 

@@ -7,6 +7,15 @@ Pāli Texts Collection
 :og_image: {static}/extra/Dharma_wheel.png
 
 
+Download
+########
+
+- `GRETIL E-texts in Pali Mirror <{filename}gretil-pali-mirror%en.rst>`_
+
+
+Reference
+#########
+
 - 巴利文獻
 
   * `pali texts collection - Google Search <https://www.google.com/search?q=pali+texts+collection>`_

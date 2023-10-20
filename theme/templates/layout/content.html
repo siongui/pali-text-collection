@@ -50,11 +50,11 @@
 
       {{- translations_for(content, SITEURL) -}}
 
-      {%- if content.orig_eng_link -%}
-        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_eng_link }}">{{ 'English Original Text'|gettext(DEFAULT_LANG) }}</a></div>
+      {%- if content.original_link -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.original_link }}">{{ 'Original Text'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
 
-      {%- if content.github_url and DEFAULT_LANG == 'zh-hant' -%}
+      {%- if content.github_url -%}
         <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on GitHub'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
 

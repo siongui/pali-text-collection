@@ -11,6 +11,7 @@ Download
 ########
 
 - `GRETIL E-texts in Pali Mirror <{filename}gretil-pali-mirror%en.rst>`_
+- `BUDSIR Roman Script Mirror <{filename}budsir-roman-script-mirror%en.rst>`_
 
 
 Reference

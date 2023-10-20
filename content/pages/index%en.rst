@@ -29,6 +29,9 @@ Reference
     + `Give Ear: Diitized Pali Texts (Digitized Pali Texts) <https://obo.genaud.net/dhammatalk/dhammatalk_forum/give_ear/ge_020.pts.digital.pali.htm>`_
     + `DLLM Resources: Links - CrossAsia Digital <https://digital.crossasia.org/digital-library-of-lao-manuscripts-resources-links/?lang=en>`_
 
+  * `Digital Editions of the Pali Canon & Commentaries - UKABS <https://ukabs.org.uk/digital-editions-of-the-pali-canon-commentaries/>`_
+  * `巴利數位文獻資源現況評述與未來展望 <http://www.chibs.edu.tw/ch_html/chbj/19/chbj1906.htm>`_
+
   * 緬甸版
 
     + `Pāli Tipiṭaka <https://tipitaka.sutta.org/>`_ (My work)
@@ -101,6 +104,27 @@ Reference
     + `Thai Tipitaka : Free Download, Borrow, and Streaming : Internet Archive - Pali canon in Thai Script. <https://archive.org/details/thai-tipitaka>`_
     + `[PDF] A Historical Look at Pali Studies in Thailand <https://www.mcu.ac.th/directory_uploads/administrator/file_upload/20210504104100_11416414-EF59-4ECF-ACA7-8837A4630338.pdf>`_
     + `พระไตรปิฎก: สิ่งที่ชาวพุทธต้องรู้ (The Pali Canon: What a Buddhist Must Know) <https://www.watnyanaves.net/en/book_detail/276>`_
+    + `budsir - Google Search <https://www.google.com/search?q=budsir>`_
+
+      - `BUDSIR github - Google Search <https://www.google.com/search?q=BUDSIR+github>`_
+      - `dhamma/tipitaka.rte: text ripped from BUDSIR <https://github.com/dhamma/tipitaka.rte>`_
+      - `Lists of the Syamrattha Tipitaka and the corresponding Atthakatha volumes <https://www.mahidol.ac.th/budsir/appendix.htm>`_
+      - `Published Atthakatha with Online Images - Dhamma Wheel Buddhist Forum <https://www.dhammawheel.com/viewtopic.php?t=41398>`_
+      - `Lec. 7 computerized search system for tipitaka [budsir] <https://www.slideshare.net/samadhipunno/lec-7-computerized-search-system-for-tipitaka-budsir>`_
+
+    + `พระไตรปิฎก ดาวน์โหลด - Google Search <https://www.google.com/search?sca_esv=575083004&q=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81++%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94>`_
+      (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%20%20%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94>`__)
+    + `พระไตรปิฎกและอรรถกถา - Google Search <https://www.google.com/search?q=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2>`_
+      (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2>`__)
+    + `พระไตรปิฎกและอรรถกถาดาวน์โหลด - Google Search <https://www.google.com/search?q=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94>`_
+      (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94>`__)
+
+      - `พระไตรปิฎก pdf - thepathofpurity <https://www.thepathofpurity.com/home/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B-%E0%B8%8E%E0%B8%81-pdf/>`_
+
+        * `พระไตรปิฎกบาลีอักษรไทย ฉบับสยามรัฐ (จำนวน ๔๕ เล่ม) <https://www.thepathofpurity.com/home/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B-%E0%B8%8E%E0%B8%81-pdf/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B-%E0%B8%8E%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A3-%E0%B8%90/>`_
+          (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%90%20(%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%20%E0%B9%94%E0%B9%95%20%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1)>`__)
+        * `อรรถกถาบาลี ฉบับสยามรัฐ (จำนวน ๔๘ เล่ม) <https://www.thepathofpurity.com/home/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B-%E0%B8%8E%E0%B8%81-pdf/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A3-%E0%B8%90/>`_
+          (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B5%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%90%20%20(%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%20%E0%B9%94%E0%B9%98%20%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1)>`__)
 
   * 斯里蘭卡版(錫蘭版)
 

@@ -12,6 +12,7 @@ Download
 
 - `GRETIL E-texts in Pali Mirror <{filename}gretil-pali-mirror%en.rst>`_
 - `BUDSIR Roman Script Mirror <{filename}budsir-roman-script-mirror%en.rst>`_
+- `Siam Rath edition (Thai script) <{filename}siam-rath-edition-thai-script-mirror%en.rst>`_
 
 
 Reference

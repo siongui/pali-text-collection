@@ -13,6 +13,8 @@ Download
 - `GRETIL E-texts in Pali Mirror <{filename}gretil-pali-mirror%en.rst>`_
 - `BUDSIR Roman Script Mirror <{filename}budsir-roman-script-mirror%en.rst>`_
 - `Siam Rath edition (Thai script) <{filename}siam-rath-edition-thai-script-mirror%en.rst>`_
+- `public xml files <https://github.com/VipassanaTech/tipitaka-xml>`__ of `tipitaka.org <https://tipitaka.org/>`__
+  (`XML Mirror <https://github.com/siongui/vri-tipitaka-xml-mirror>`__)
 
 
 Reference

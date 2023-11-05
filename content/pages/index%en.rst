@@ -70,6 +70,8 @@ Reference
       (`PDF Mirror <{static}/extra/pdf-mirror/Pali-Text-Society_PALI-Sutta-Pitaka_Complete.pdf>`__)
 
     + `Canonical texts and commentaries, Pali and English | Discovering Buddha <https://www.discoveringbuddha.org/scholarly-societies/the-pali-text-society/canonical-texts-and-commentaries-pali-and-english-where-available/>`_
+    + `vpnry/ptsped: A digital version of PTS  Pāli-English Dictionary in Stardict dictionary format <https://github.com/vpnry/ptsped>`_
+    + `Palitext | WorldCat.org <https://www.worldcat.org/title/36347109>`_
 
   * 泰國版
 
